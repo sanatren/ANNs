@@ -1,2 +1,2 @@
-open any project and read Readme.md to operate and run that specific app
+open any project and read Readme.md to operate and run that specific app or project
 
