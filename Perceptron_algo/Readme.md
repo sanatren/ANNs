@@ -3,7 +3,7 @@
 The Perceptron algorithm models a linear decision boundary, making it suitable for simple classification tasks. It serves as a foundation for understanding more complex neural network architectures.
 
 
-lossfunction.py:
+##lossfunction.py:
 
 Forward Propagation:
  the line z = w1*X[i][0] + w2*X[i][1] + b performs forward propagation. It computes the linear weighted sum z
@@ -17,7 +17,8 @@ At the end, the decision boundary is plotted based on learned weights and bias.
 
 
 
-perceptron.py:
+##perceptron.py:
+
 Forward Propagation:
 Uses scikit-learn's Perceptron, which internally implements forward propagation to compute the weighted sum and classify data.
 
