@@ -1,3 +1,7 @@
+## Intuition
+
+The Perceptron algorithm models a linear decision boundary, making it suitable for simple classification tasks. It serves as a foundation for understanding more complex neural network architectures.
+
 
 lossfunction.py:
 
